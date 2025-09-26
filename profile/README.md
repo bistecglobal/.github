@@ -11,6 +11,7 @@ We offer a comprehensive range of services designed to support your business:
 
 ### **Software Development**
 - Enterprise Web Application Development
+- Agentic AI Solutions
 - Custom Software Solutions
 
 ### **IT Services**
